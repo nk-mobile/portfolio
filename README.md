@@ -11,9 +11,9 @@
 ---
 
 ### 🔧 Навыки  
-**No-Code:** Cursor автоматизация  
-**Python:** FastAPI, Flask, pandas, requests, Scrapy, REST API, автоматизация  
-**Инструменты:** Git, Postman, Google Workspace, ClickUp, Figma, Render  
+**No-Code:** Cursor  
+**Python:** Django, Flask, pandas, requests, Scrapy, REST API, автоматизация  
+**Инструменты:** Git, Postman, Pycharm  
 **Базы данных:** SQLite, PostgreSQL, MS SQL, Oracle
 
 ---
